@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Addition</string><string name="first_number">Zahl</string><string name="operation">+</string><string name="second_number">Zahl</string><string name="calc">Rechne!</string><string name="result">Ergebnis</string>
+</resources>
